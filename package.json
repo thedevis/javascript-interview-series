@@ -1,0 +1,26 @@
+{
+  "name": "javascript-interview-series",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedevis/javascript-interview-series.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedevis/javascript-interview-series/issues"
+  },
+  "homepage": "https://github.com/thedevis/javascript-interview-series#readme",
+  "dependencies": {
+    "mysql2": "^2.2.5",
+    "npm": "^7.7.4",
+    "redis": "^3.0.2",
+    "sequelize": "^6.6.2"
+  }
+}
